@@ -1,0 +1,5 @@
+{
+  "name": "无约束最优化可视化平台",
+  "description": "一个交互式的无约束最优化算法学习工具，支持梯度下降、牛顿法等多种算法的动态演示和AI原理解析。",
+  "requestFramePermissions": []
+}
